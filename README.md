@@ -1,3 +1,2 @@
 # Hello World
-this is just another repository
-for learning purposes
+this is just another repository for learning purposes
